@@ -1,0 +1,20 @@
+Inception,Sci-Fi,2010,8.8
+The Dark Knight,Action,2008,9.0
+Interstellar,Sci-Fi,2014,8.6
+Parasite,Thriller,2019,8.6
+Avengers: Endgame,Action,2019,8.4
+Titanic,Romance,1997,7.9
+Pulp Fiction,Crime,1994,8.9
+The Matrix,Sci-Fi,1999,8.7
+Iron Man,Action,2008,7.9
+Spider-Man: No Way Home,Action,2021,8.3
+Black Panther,Action,2018,7.3
+Guardians of the Galaxy,Action,2014,8.0
+Doctor Strange,Action,2016,7.5
+Creed,Sports,2015,7.6
+Creed II,Sports,2018,7.1
+Creed III,Sports,2023,7.2
+Transformers,Action,2007,7.0
+Transformers: Revenge of the Fallen,Action,2009,6.0
+Transformers: Dark of the Moon,Action,2011,6.2
+Bumblebee,Action,2018,6.7
